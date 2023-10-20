@@ -1,9 +1,4 @@
-
-Home
-==========
-
-* [Home](/)
-* [Guide](guide.md)
+* #### [***Home***](/) ` ` [Guide](guide.md) ` ` [Some Other Page etc]()
 
 
 ## Heading 1

@@ -1,9 +1,4 @@
-Guide
-===========
-
-
-* [Home](/)
-* [Guide](guide.md)
+* #### [Home](/) ` ` [***Guide***](guide.md) ` ` [Some Other Page etc]()
 
 
 # Guide's Heading
