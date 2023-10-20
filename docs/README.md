@@ -1,4 +1,4 @@
-* #### [***Home***](/) ` ` [Guide](guide.md) ` ` [Some Other Page etc]()
+* #### [***Home***](/) ` ` [Guide](guide.md) ` ` [Some Other Page](some-other-page.md)
 
 
 ## Heading 1
